@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ding0215
-- 👀 I’m interested in learning new programming skills
-- 🌱 I’m currently learning Laravel framework
-- 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me at dingsy0215@gmail.com
+- 👀 I’m interested in learning new technology
+- 🌱 I’m currently focus on developing mobile application using Flutter
+- 💞️ I’m a fullstack developer
+- 📫 You can reach me at ian.ding0215@gmail.com
 
 <!---
 ding0215/ding0215 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
